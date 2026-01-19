@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 100vh; 
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to top, rgb(9, 34, 55), rgb(41, 113, 149));
+}
+.body {
+    background: rgba(14, 50, 181, 0.1); 
+    padding:40px; 
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 4px 15px rgba(1, 0, 14, 0.5);
+}
