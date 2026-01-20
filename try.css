@@ -5,7 +5,7 @@ body {
     height: 100vh; 
     margin: 0; 
     font-family: Arial, sans-serif;
-    background: linear-gradient(to top, rgb(9, 34, 55), rgb(41, 113, 149));
+    background: linear-gradient(to top, rgb(9, 55, 55), rgb(41, 113, 149));
 }
 .body {
     background: rgba(14, 50, 181, 0.1); 
